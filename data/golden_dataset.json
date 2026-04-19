@@ -1,0 +1,158 @@
+[
+  {
+      "question": "What was Apple's total net sales for the quarterly period ended December 27, 2025?",
+      "answer": "| Metric | Amount (in Millions) |\n| :--- | :--- |\n| Total Net Sales (Quarter Ended Dec 27, 2025) | $143,756 |\n\nApple Inc. reported total net sales of $143,756 million for the three months ended December 27, 2025, representing a 16% increase compared to the $124,300 million reported in the prior year. Growth was primarily driven by iPhone net sales rising from $69,138 million to $85,269 million year-over-year.",
+      "source": "Apple Inc. | 10-Q | Pages 4, 9, 17, 18",
+      "company": "Apple Inc."
+  },
+  {
+      "question": "In which state is Eli Lilly and Company incorporated and where is its principal executive office located?",
+      "answer": "| Metric | Details |\n| :--- | :--- |\n| Full Legal Entity Name | Eli Lilly and Company |\n| State of Incorporation | Indiana |\n| Principal Executive Office | Lilly Corporate Center, Indianapolis, Indiana 46285 |",
+      "source": "Eli Lilly and Company Form 10-Q for the quarterly period ended September 30, 2025, Page 1",
+      "company": "Eli Lilly and Company"
+  },
+  {
+      "question": "How many shares of Apple's common stock were outstanding as of January 16, 2026?",
+      "answer": "| Metric | Value |\n| :--- | :--- |\n| Common Shares Outstanding (as of Jan 16, 2026) | 14,681,140,000 |",
+      "source": "Apple Inc. Form 10-Q for the quarterly period ended December 27, 2025, Page 1",
+      "company": "Apple Inc."
+  },
+  {
+      "question": "where are the state of incorporation for Berkshire Hathaway, and Eli Lilly?",
+      "answer": "| Entity Name | State of Incorporation |\n| :--- | :--- |\n| Berkshire Hathaway Inc. | Delaware |\n| Eli Lilly and Company | Indiana |",
+      "source": "Berkshire 10-Q, Page 1; Eli Lilly 10-Q, Page 1",
+      "company": "Multi-Comparison"
+  },
+  {
+      "question": "Which of the three companies (Apple, Berkshire, Eli lilly) is registered on the Nasdaq Stock Market?",
+      "answer": "| Company | Stock Exchange |\n| :--- | :--- |\n| Apple Inc. | The Nasdaq Stock Market LLC |\n| Berkshire Hathaway Inc. | New York Stock Exchange |\n| Eli Lilly and Company | New York Stock Exchange |",
+      "source": "Apple 10-Q, Page 1; Berkshire 10-Q, Page 1; Eli Lilly 10-Q, Page 1",
+      "company": "Multi-Comparison"
+    },
+  {
+      "question": "What are the IRS Employer Identification Numbers for all three companies?",
+      "answer": "| Company | IRS Employer Identification Number (EIN) |\n| :--- | :--- |\n| Apple Inc. | 94-2404110 |\n| Berkshire Hathaway Inc. | 47-0813844 |\n| Eli Lilly and Company | 35-0470950 |",
+      "source": "Apple 10-Q, Page 1; Berkshire 10-Q, Page 1; Eli Lilly 10-Q, Page 1",
+      "company": "Multi-Comparison"
+  },
+  {
+      "question": "Compare the total assets of Apple and Berkshire Hathaway as of their latest 2025 filings.",
+      "answer": "| Entity | Reporting Date | Total Assets |\n| :--- | :--- | :--- |\n| Apple Inc. | December 27, 2025 | $379,297 Million |\n| Berkshire Hathaway Inc. | September 30, 2025 | $982,705 Million |",
+      "source": "Berkshire 10-Q, Page 3; Apple 10-Q, Page 6",
+      "company": "Multi-Comparison"
+  },
+  {
+      "question": "What are the principal executive office addresses for the three companies?",
+      "answer": "| Company | Principal Executive Office Address |\n| :--- | :--- |\n| Apple Inc. | One Apple Park Way, Cupertino, California 95014 |\n| Berkshire Hathaway Inc. | 3555 Farnam Street, Omaha, Nebraska 68131 |\n| Eli Lilly and Company | Lilly Corporate Center, Indianapolis, Indiana 46285 |",
+      "source": "Apple 10-Q, Page 1; Berkshire 10-Q, Page 1; Eli Lilly 10-Q, Page 1",
+      "company": "Multi-Comparison"
+  },
+  {
+      "question": "Compare the total liabilities of Apple and Berkshire Hathaway as of late 2025.",
+      "answer": "| Entity | Reporting Date | Total Liabilities |\n| :--- | :--- | :--- |\n| Apple Inc. | December 27, 2025 | $291,107 Million |\n| Berkshire Hathaway Inc. | September 30, 2025 | $438,134 Million* |\n\n*Note: Berkshire Hathaway's total liabilities are derived from the sum of 'Insurance and Other' ($330,731M) and 'Railroad, Utilities and Energy' ($107,403M) segments.",
+      "source": "Apple 10-Q, Page 6; Berkshire 10-Q, Pages 3-4",
+      "company": "Multi-Comparison"
+  },
+  {
+      "question": "Which company reported the highest net income/earnings in their respective 2025 quarterly periods?",
+      "answer": "| Company | Period Ended | Net Income (Millions) |\n| :--- | :--- | :--- |\n| Apple Inc. | Dec 27, 2025 | $42,097 |\n| Berkshire Hathaway | Sept 30, 2025 | $30,796 |\n| Eli Lilly and Company | Sept 30, 2025 | $5,582.5 |\n\nApple Inc. reported the highest net income among the three companies at $42,097 million for the quarterly period ended December 27, 2025.",
+      "source": "Apple 10-Q, Page 10; Berkshire Hathaway 10-Q, Page 7; Eli Lilly 10-Q, Page 6",
+      "company": "Multi-Comparison"
+  },
+  {
+      "question": "What are the telephone area codes for the principal offices of Apple, Berkshire, and Eli Lilly?",
+      "answer": "| Company | Principal Executive Office Location | Area Code |\n| :--- | :--- | :--- |\n| Apple Inc. | Cupertino, California | 408 |\n| Berkshire Hathaway Inc. | Omaha, Nebraska | 402 |\n| Eli Lilly and Company | Indianapolis, Indiana | 317 |",
+      "source": "Apple 10-Q, Page 1; Berkshire 10-Q, Page 1; Eli Lilly 10-Q, Page 1",
+      "company": "Multi-Comparison"
+  },
+  {
+      "question": "Which of these companies listed '1.625% Notes due 2026' on their cover page?",
+      "answer": "| Company | Security Listed |\n| :--- | :--- |\n| Apple Inc. | 1.625% Notes due 2026 |\n| Eli Lilly and Company | 1.625% Notes due 2026 |\n\nBoth Apple Inc. and Eli Lilly and Company explicitly list the 1.625% Notes due 2026 as registered securities on their 10-Q cover pages. Berkshire Hathaway Inc. lists various senior notes, but the 1.625% Notes due 2026 is not listed for that entity.",
+      "source": "Apple 10-Q, Page 1; Eli Lilly 10-Q, Page 1",
+      "company": "Multi-Comparison"
+  },
+  {
+      "question": "Who are the CEO signatories for the Apple and Eli Lilly filings?",
+      "answer": "| Company | CEO Signatory | Document Type | Date of Signature |\n| :--- | :--- | :--- | :--- |\n| Apple Inc. | Timothy D. Cook | 10-Q | January 30, 2026 |\n| Eli Lilly and Company | David Ricks | 10-Q | October 30, 2025 |",
+      "source": "Apple 10-Q, Page 28; Eli Lilly 10-Q, Page 48",
+      "company": "Multi-Comparison"
+  },
+  {
+      "question": "Who are the CFO signatories for Apple and Eli Lilly?",
+      "answer": "| Company | CFO Signatory | Document Type |\n| :--- | :--- | :--- |\n| Apple Inc. | Kevan Parekh | 10-Q |\n| Eli Lilly and Company | Lucas Montarce | 10-Q |",
+      "source": "Apple 10-Q, Pages 25, 28; Eli Lilly 10-Q, Pages 45, 47, 48",
+      "company": "Multi-Comparison"
+  },
+  {
+      "question": "What were the Commission File Numbers for the three companies?",
+      "answer": "| Company | Commission File Number |\n| :--- | :--- |\n| Apple Inc. | 001-36743 |\n| Berkshire Hathaway Inc. | 001-14905 |\n| Eli Lilly and Company | 001-6351 |",
+      "source": "Apple 10-Q, Page 1; Berkshire 10-Q, Page 1; Eli Lilly 10-Q, Page 1",
+      "company": "Multi-Comparison"
+  },
+  {
+      "question": "Which company has a 'no par value' for its common stock?",
+      "answer": "| Company | Common Stock Par Value |\n| :--- | :--- |\n| Eli Lilly and Company | No par value |\n| Apple Inc. | $0.00001 |\n| Berkshire Hathaway Inc. | $5 (Class A) / $0.0033 (Class B) |\n\nEli Lilly and Company is the only entity among the three with no par value for its common stock.",
+      "source": "Eli Lilly 10-Q, Page 1; Apple 10-Q, Page 6; Berkshire Hathaway 10-Q, Page 22",
+      "company": "Multi-Comparison"
+  },
+  {
+      "question": "What were Apple's net sales for its Products vs Services in Q1 2026?",
+      "answer": "| Category | Net Sales (Q1 2026) |\n| :--- | :--- |\n| **Total Products** | $113,743 |\n| **Services** | $30,013 |\n| **Total Net Sales** | **$143,756** |\n\nFor the first quarter of fiscal year 2026 (ended December 27, 2025), Apple's total products net sales were $113,743 million and services net sales were $30,013 million, totaling $143,756 million.",
+      "source": "Apple 10-Q, Pages 4, 18",
+      "company": "Apple Inc."
+  },
+  {
+      "question": "What was Berkshire Hathaway's revenue from 'Freight rail transportation' in Q3 2025?",
+      "answer": "| Metric | Q3 2025 Revenue (in Millions) |\n| :--- | :--- |\n| Freight rail transportation | $5,986 |",
+      "source": "Berkshire 10-Q, Page 5",
+      "company": "Berkshire Hathaway Inc."
+  },
+  {
+      "question": "How much did Berkshire Hathaway report in 'Short-term investments in U.S. Treasury Bills' as of September 30, 2025?",
+      "answer": "| Metric | Amount (in Millions) |\n| :--- | :--- |\n| Short-term investments in U.S. Treasury Bills | $305,367 |\n\nAs of September 30, 2025, Berkshire Hathaway reported $305,367 million in short-term investments in U.S. Treasury Bills.",
+      "source": "Berkshire 10-Q, Page 3",
+      "company": "Berkshire Hathaway Inc."
+  },
+  {
+      "question": "What was Apple's cash and cash equivalents balance on December 27, 2025?",
+      "answer": "| Metric | Date | Amount (in Millions) |\n| :--- | :--- | :--- |\n| Cash and cash equivalents | December 27, 2025 | $45,317 |",
+      "source": "Apple 10-Q, Page 6",
+      "company": "Apple Inc."
+  },
+  {
+      "question": "What were the 'Insurance premiums earned' for Berkshire Hathaway in the third quarter of 2025?",
+      "answer": "| Metric | Amount (in Millions) |\n| :--- | :--- |\n| Insurance premiums earned (Q3 2025) | $22,445 |\n\nFor the third quarter of 2025, Berkshire Hathaway reported insurance premiums earned of $22,445 million.",
+      "source": "Berkshire 10-Q, Page 5",
+      "company": "Berkshire Hathaway Inc."
+  },
+  {
+      "question": "Which of the three companies are considered 'Large accelerated filers'?",
+      "answer": "| Company | Filer Status |\n| :--- | :--- |\n| Apple Inc. | Large accelerated filer |\n| Berkshire Hathaway Inc. | Large accelerated filer |\n| Eli Lilly and Company | Large accelerated filer |\n\nAll three companies (Apple, Berkshire Hathaway, and Eli Lilly) indicated on their respective 10-Q cover pages that they are classified as large accelerated filers.",
+      "source": "Apple 10-Q, Page 1; Berkshire 10-Q, Page 1; Eli Lilly 10-Q, Page 1",
+      "company": "Multi-Comparison"
+  },
+  {
+      "question": "How many Class A shares did Berkshire Hathaway have outstanding as of October 20, 2025?",
+      "answer": "| Metric | Value |\n| :--- | :--- |\n| Class A Common Shares Outstanding | 523,010 |\n\nAs of October 20, 2025, Berkshire Hathaway Inc. had 523,010 Class A common shares outstanding.",
+      "source": "Berkshire 10-Q, Page 1",
+      "company": "Berkshire Hathaway Inc."
+  },
+  {
+      "question": "What is the trading symbol for Berkshire Hathaway's Class B Common Stock?",
+      "answer": "| Security | Trading Symbol |\n| :--- | :--- |\n| Class B Common Stock | BRK.B |\n\nThe trading symbol for Berkshire Hathaway Inc.'s Class B Common Stock, as listed on the New York Stock Exchange, is BRK.B.",
+      "source": "Berkshire 10-Q, Page 1",
+      "company": "Berkshire Hathaway Inc."
+  },
+  {
+      "question": "What amount did Apple spend on Research and Development in its first fiscal quarter of 2026?",
+      "answer": "| Metric | Three Months Ended Dec 27, 2025 | Three Months Ended Dec 28, 2024 |\n| :--- | :--- | :--- |\n| Research and Development | $10,887 Million | $8,268 Million |\n\nApple Inc. spent $10,887 million on Research and Development during the first fiscal quarter of 2026 (ended December 27, 2025), representing an increase from $8,268 million in the same quarter of the previous year.",
+      "source": "Apple 10-Q, Pages 4, 19",
+      "company": "Apple Inc."
+  },
+  {
+      "question": "What was Apple's basic earnings per share for the quarter ended Dec 27, 2025?",
+      "answer": "| Metric | Value |\n| :--- | :--- |\n| Basic Earnings Per Share | $2.85 |\n\nFor the fiscal quarter ended December 27, 2025, Apple Inc. reported basic earnings per share of $2.85.",
+      "source": "Apple 10-Q, Page 4",
+      "company": "Apple Inc."
+  }
+]
